@@ -5,7 +5,7 @@ Created on Sat Oct  8 13:19:11 2022
 @author: rubir
 """
 
-from load_flow_integ import case_powerflow
+from load_flow_FB import case_powerflow
 import pandas as pd
 import matplotlib.pyplot as plt
 
